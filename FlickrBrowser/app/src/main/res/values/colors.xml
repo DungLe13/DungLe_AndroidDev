@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="flickrPrimaryBackgroundColor">@color/md_amber_500</color>
+    <color name="flickrSecondaryBackgroundColor">@color/md_amber_700</color>
+    <color name="flickrColorBackgroundAccent">@color/md_deep_purple_500</color>
+    <color name="flickrBackgroundColor">@color/md_teal_300</color>
+    <color name="flickrPrimaryTextColor">@color/md_white_1000</color>
+    <color name="flickrSecondaryTextColor">@color/md_red_600</color>
+
+</resources>

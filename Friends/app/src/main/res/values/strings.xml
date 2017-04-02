@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="delete_database">Delete Database</string>
+    <string name="enter_name">Enter name...</string>
+    <string name="add_friend_title">Add Friend</string>
+    <string name="edit_friend_title">Edit Friend</string>
+    <string name="search_friend_title">Search Friend</string>
+</resources>
